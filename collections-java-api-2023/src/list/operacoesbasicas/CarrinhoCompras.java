@@ -8,6 +8,7 @@ public class CarrinhoCompras {
     private List<Item> listaItems;
 
     public CarrinhoCompras() {
+
         this.listaItems = new ArrayList<>();
     }
 
