@@ -64,5 +64,8 @@ Crie uma classe chamada "OrdenacaoNumeros" que possui uma lista de números inte
   - ``adicionarNumero(int numero)``: Adiciona um número à lista.
   - ``ordenarAscendente()``: Ordena os números da lista em ordem ascendente usando a interface Comparable e a class Collections.
   - ``ordenarDescendente()``: Ordena os números da lista em ordem descendente usando um Comparable e a class Collections.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 17556b2f02bd0b166177021f93135c17df907387
