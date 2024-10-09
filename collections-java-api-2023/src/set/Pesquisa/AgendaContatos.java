@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class AgendaContatos {
-    private Set<Contato> contatosSet;;
+    private Set<Contato> contatosSet;
 
     public AgendaContatos() {
         this.contatosSet = new HashSet<>();
