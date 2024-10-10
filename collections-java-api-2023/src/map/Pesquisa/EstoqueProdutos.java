@@ -40,7 +40,7 @@ public class EstoqueProdutos {
         }
         return produtoMaisCaro;
     }
-    
+
     public Produto obterProdutoMaisBarato() {
         Produto produtoMaisBarato = null;
         double menorPreco = Double.MAX_VALUE;
